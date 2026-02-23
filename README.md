@@ -1107,13 +1107,8 @@ Attribute:
 
 #### Energieeffizienz verschiedener Verkehrsmittel
 
-Die mobitool-Faktoren gelten als de facto Standard für die
-Ökobilanz-Umweltbewertung von Mobilität in der Schweiz. Die
-mobitool-Faktoren sind in einer Excel-Datei zusammengefasst, der Sie die
-Emissions- und Umweltwerte von über 150 Verkehrsmitteln entnehmen
-können. In den grauen Feldern lassen sich individuelle Anpassungen
-bezüglich des durchschnittlichen Verbrauchs, der Auslastung der
-Fahrzeuge und des Fahrzeuggewichts vornehmen.
+Die mobitool-Faktoren gelten als de facto Standard für die Ökobilanz-Umweltbewertung von Mobilität in der Schweiz. Die mobitool-Faktoren sind in einer Excel-Datei zusammengefasst, der Sie die Emissions- und Umweltwerte von über 150 Verkehrsmitteln entnehmen können. In den grauen Feldern lassen sich individuelle Anpassungen bezüglich des durchschnittlichen Verbrauchs, der Auslastung der Fahrzeuge und des Fahrzeuggewichts vornehmen.
+
 
 | Metadaten                |                                                                                 |
 |--------------------------|---------------------------------------------------------------------------------|
@@ -1122,12 +1117,17 @@ Fahrzeuge und des Fahrzeuggewichts vornehmen.
 | Datenebene               | Verkehrsmittel                                                                  |
 | Geodaten                 | Nein                                                                            |
 | Format                   | XLSM                                                                            |
-| Datenbezug               | <https://www.mobitool.ch/de/tools/mobitool-faktoren-v2-1-25.html> &gt; „Download der Excel-Datei“ |
-| Dokumentation            | <https://www.mobitool.ch/de/tools/mobitool-faktoren-v2-1-25.html> &gt; „Hintergrundbericht“ |
+| Datenbezug               | < https://assets.ctfassets.net/4y40wxcxzkmz/oVkB45ifGfz5X44f5Omb1/9d3ef33605fb6154d61d7630536c3a92/mobitool-Faktoren-v3.1-20250408.xlsx > „Download der Excel-Datei“|
+| Dokumentation            | < https://assets.ctfassets.net/4y40wxcxzkmz/38i63bjJXJtYF6VTQW1GvT/82ee0f5ce2e7555e7e99e37f43e438a0/mobitool-manual-v3.0_de.pdf > &gt; „Hintergrundbericht“ |
 | Open Data                | Ja                                                                              |
 | Aktualisierungsintervall | Nach Bedarf                                                                     |
-| Eigentum von             | Verein mobitool (Trägerschaft: SBB, Swisscom, EnergieSchweiz, BAFU, öbu)        |
-| Kontakt                  | Telefon: +41 33 334 00 20<br/>E-Mail: info@mobitool.ch                          |
+| Eigentum von             | Daten gehören BAFU, Rechner wird vom BFE Betrieben                           |
+| Kontakt                  |Telefon: +41 33 334 00 20
+                            E-Mail: info@mobitool.ch
+                            E-Mail Daten: lca@bafu.admin.ch
+                            E-Mail zu Tool:       energieschweiz@bfe.admin.ch
+
+|
 
 #### Erwerbstätige nach Wohn- und Arbeitsgemeinde (Pendlermatrix)
 
