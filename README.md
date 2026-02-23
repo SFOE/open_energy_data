@@ -1122,7 +1122,7 @@ Die mobitool-Faktoren gelten als de facto Standard für die Ökobilanz-Umweltbew
 | Open Data                | Ja                                                                              |
 | Aktualisierungsintervall | Nach Bedarf                                                                     |
 | Eigentum von             | Daten gehören BAFU, Rechner wird vom BFE Betrieben                           |
-| Kontakt                  |Telefon: +41 33 334 00 20 <br/> E-Mail: info@mobitool.ch <br/> E-Mail Daten: lca@bafu.admin.ch <br/> E-Mail zu Tool: energieschweiz@bfe.admin.ch
+| Kontakt                  |E-Mail Daten: lca@bafu.admin.ch <br/> E-Mail zu Tool: energieschweiz@bfe.admin.ch
 
 |
 
