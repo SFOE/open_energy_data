@@ -6,7 +6,7 @@
   - [Was ist Open Government Data?](#was-ist-open-government-data)
   - [Was sind Geodaten?](#was-sind-geodaten)
   - [Wo finde ich Open (Government) Data?](#wo-finde-ich-open-government-data)
-  - [Wie ist diese Dokumentation aufgebaut?](#wie-ist-diese-dokumentation-aufgebaut)
+  - [Wie ist diese Dokumentation aufgebaut?](#wie-ist-diese-Energieeffizienz verschiedener Verkehrsmitteldokumentation-aufgebaut)
   - [Datensätze nach Energiethemen](#datensätze-nach-energiethemen)
     - [Energiepotenziale](#energiepotenziale)
       - [Eignung von Hausdächern für die Nutzung von Sonnenenergie](#eignung-von-hausdächern-für-die-nutzung-von-sonnenenergie)
@@ -1117,8 +1117,8 @@ Die mobitool-Faktoren gelten als de facto Standard für die Ökobilanz-Umweltbew
 | Datenebene               | Verkehrsmittel                                                                  |
 | Geodaten                 | Nein                                                                            |
 | Format                   | XLSM                                                                            |
-| Datenbezug               |  <https://assets.ctfassets.net/4y40wxcxzkmz/oVkB45ifGfz5X44f5Omb1/9d3ef33605fb6154d61d7630536c3a92/mobitool-Faktoren-v3.1-20250408.xlsx/> &gt; „Download der Excel-Datei“|
-| Dokumentation            | <https://assets.ctfassets.net/4y40wxcxzkmz/38i63bjJXJtYF6VTQW1GvT/82ee0f5ce2e7555e7e99e37f43e438a0/mobitool-manual-v3.0_de.pdf/> &gt; „«Gebrauchsanleitung“ |
+| Datenbezug               |  https://assets.ctfassets.net/4y40wxcxzkmz/oVkB45ifGfz5X44f5Omb1/9d3ef33605fb6154d61d7630536c3a92/mobitool-Faktoren-v3.1-20250408.xlsx &gt; „Download der Excel-Datei“|
+| Dokumentation            | https://assets.ctfassets.net/4y40wxcxzkmz/38i63bjJXJtYF6VTQW1GvT/82ee0f5ce2e7555e7e99e37f43e438a0/mobitool-manual-v3.0_de.pdf&gt; „«Gebrauchsanleitung“ |
 | Open Data                | Ja                                                                              |
 | Aktualisierungsintervall | Nach Bedarf                                                                     |
 | Eigentum von             | Daten gehören BAFU, Rechner wird vom BFE Betrieben                           |
