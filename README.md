@@ -308,7 +308,7 @@ Der Datensatz enthält 2D-Dachgeometrien (Polygon).
 | Open Data                | Ja                                                                                                                                 |
 | Aktualisierungsintervall | Kontinuierlich                                                                                                                     |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                                                        |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                                                        |
+| Kontakt                  | contact@bfe.admin.ch                                                                                                        |
 
 #### Eignung von Fassaden für die Nutzung von Sonnenenergie
 
@@ -332,7 +332,7 @@ Der Datensatz enthält 2D-Fassadengeometrien (Linestring).
 | Open Data                | Ja                                                                                                                                 |
 | Aktualisierungsintervall | Kontinuierlich                                                                                                                     |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                                                        |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                                                        |
+| Kontakt                  | contact@bfe.admin.ch                                                                                                        |
 
 #### Potenzial der verholzten Biomassenressourcen für die energetische Nutzung
 
@@ -363,7 +363,7 @@ Umwandlung verfügbar ist) in Petajoule.
 | Open Data                | Ja                                                                                                                                 |
 | Aktualisierungsintervall | Jährlich                                                                                                                           |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                                                        |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                                                        |
+| Kontakt                  | contact@bfe.admin.ch                                                                                                        |
 
 #### Potenzial der nicht-verholzten Biomassenressourcen für die energetische Nutzung
 
@@ -394,7 +394,7 @@ Umwandlung verfügbar ist) in Petajoule.
 | Open Data                | Ja                                                                                                                                 |
 | Aktualisierungsintervall | Jährlich                                                                                                                           |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                                                        |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                                                        |
+| Kontakt                  | contact@bfe.admin.ch                                                                                                        |
 
 #### Jahresmittel der Windgeschwindigkeit und -richtung
 
@@ -423,7 +423,7 @@ werden. Untenstehend beispielhaft die Informationen zur Höhe 75 m.
 | Open Data                | Ja                                                                                                                                 |
 | Aktualisierungsintervall | Keine Aktualisierung                                                                                                               |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                                                        |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                                                        |
+| Kontakt                  | contact@bfe.admin.ch                                                                                                        |
 
 #### Wärme- und Kälteangebot
 
@@ -447,7 +447,7 @@ Sonderverbrennungsanlagen liegen keine Wärmepotentiale vor.
 | Open Data                | Ja                                                                                                                                 |
 | Aktualisierungsintervall | Jährlich                                                                                                                           |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                                                        |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                                                        |
+| Kontakt                  | contact@bfe.admin.ch                                                                                                        |
 
 ### Energieproduktion
 
@@ -487,7 +487,7 @@ Attribute:
 | Open Data                | Ja                                                                                                                                 |
 | Aktualisierungsintervall | Monatlich                                                                                                                          |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                                                        |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                                                        |
+| Kontakt                  | contact@bfe.admin.ch                                                                                                        |
 
 #### Bezüger\*innen der kostendeckenden Einspeisevergütung (KEV)
 
@@ -699,7 +699,7 @@ Attribute:
 | Open Data                | Ja                                                                                                                                 |
 | Aktualisierungsintervall | Kontinuierlich                                                                                                                     |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                                                        |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                                                        |
+| Kontakt                  | contact@bfe.admin.ch                                                                                                        |
 
 ### Energieverbrauch
 
@@ -1117,8 +1117,8 @@ Die mobitool-Faktoren gelten als de facto Standard für die Ökobilanz-Umweltbew
 | Datenebene               | Verkehrsmittel                                                                  |
 | Geodaten                 | Nein                                                                            |
 | Format                   | XLSM                                                                            |
-| Datenbezug               |  https://assets.ctfassets.net/4y40wxcxzkmz/oVkB45ifGfz5X44f5Omb1/9d3ef33605fb6154d61d7630536c3a92/mobitool-Faktoren-v3.1-20250408.xlsx  &gt; „Download der Excel-Datei“|
-| Dokumentation            | https://assets.ctfassets.net/4y40wxcxzkmz/38i63bjJXJtYF6VTQW1GvT/82ee0f5ce2e7555e7e99e37f43e438a0/mobitool-manual-v3.0_de.pdf &gt; „«Gebrauchsanleitung“ |
+| Datenbezug               |  <https://assets.ctfassets.net/4y40wxcxzkmz/oVkB45ifGfz5X44f5Omb1/9d3ef33605fb6154d61d7630536c3a92/mobitool-Faktoren-v3.1-20250408.xlsx/> &gt; „Download der Excel-Datei“|
+| Dokumentation            | <https://assets.ctfassets.net/4y40wxcxzkmz/38i63bjJXJtYF6VTQW1GvT/82ee0f5ce2e7555e7e99e37f43e438a0/mobitool-manual-v3.0_de.pdf/> &gt; „«Gebrauchsanleitung“ |
 | Open Data                | Ja                                                                              |
 | Aktualisierungsintervall | Nach Bedarf                                                                     |
 | Eigentum von             | Daten gehören BAFU, Rechner wird vom BFE Betrieben                           |
@@ -1179,7 +1179,7 @@ Verfügbarkeit von Shared Mobility-Angeboten in Echtzeit.
 | Open Data                | Ja                                                                                            |
 | Aktualisierungsintervall | Echtzeit                                                                                      |
 | Eigentum von             | Bundesamt für Energie (BFE)                                                                   |
-| Kontakt                  | geoinformation@bfe.admin.ch                                                                   |
+| Kontakt                  | contact@bfe.admin.ch                                                                   |
 
 ### Amtliche Grundlagendaten
 
